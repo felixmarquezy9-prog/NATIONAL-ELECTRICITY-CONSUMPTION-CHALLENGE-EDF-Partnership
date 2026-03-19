@@ -35,8 +35,11 @@ The main takeaway from this project: feature engineering had a much larger impac
 | XGBoost | 3088.0 |
 | LightGBM | 2761.5 |
 
-*Kaggle ranking: 1st place among student teams*
+## Result on Kaggle's test dataset:
 
+| Model | RMSE Balance |
+|---|---|
+| CatBoost | 2173.0 |
 ---
 
 ## Stack
