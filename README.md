@@ -39,16 +39,6 @@ The main takeaway from this project: feature engineering had a much larger impac
 
 ---
 
-## Repository structure
-
-```
-📦 edf-electricity-forecasting
- ┣ 📓 electricity_forecasting.ipynb   # Full pipeline: EDA, feature engineering, modeling, evaluation
- ┗ 📄 README.md
-```
-
----
-
 ## Stack
 
 ```
