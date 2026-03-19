@@ -53,6 +53,6 @@ pip install numpy pandas scikit-learn seaborn matplotlib xgboost lightgbm catboo
 
 ## Authors
 
-Developed by a team of CentraleSupélec engineering students — June 2025.
+Developed by a team of four CentraleSupélec engineering students — June 2025.
 
 **Félix Marquezy** — [LinkedIn](https://www.linkedin.com/in/félix-marquezy/) · [GitHub](https://github.com/felixmarquezy9-prog)
