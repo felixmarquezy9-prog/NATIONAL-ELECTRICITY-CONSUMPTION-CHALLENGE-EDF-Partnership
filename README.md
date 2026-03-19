@@ -31,9 +31,9 @@ The main takeaway from this project: feature engineering had a much larger impac
 
 | Model | RMSE Balance |
 |---|---|
-| CatBoost | 2402.8 |
-| XGBoost | 2452.3 |
-| LightGBM | 2431.5 |
+| CatBoost | 3008.8 |
+| XGBoost | 3088.0 |
+| LightGBM | 2761.5 |
 
 *Kaggle ranking: 1st place among student teams*
 
